@@ -1,0 +1,5 @@
+https://www.scrumalliance.org/community/articles/2014/april/devops-and-agile
+https://theagileadmin.com/what-is-devops/
+https://www.versionone.com/devops-101/what-is-devops/
+https://www.edx.org/course/introduction-devops-microsoft-dev212x-2
+
